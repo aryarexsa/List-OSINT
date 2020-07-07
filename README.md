@@ -18,3 +18,5 @@ $ bash Taz-Vil.sh
 $ i
 
 NB: i adalah command untuk install semua bahan yang diperlukan
+
+copyleft@2020
